@@ -40,4 +40,4 @@ The objective of these tasks is to strengthen my Python fundamentals and develop
 
 ---
 
-**Python Programming Tas**
+**Python Programming Task**
